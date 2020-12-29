@@ -1,2 +1,2 @@
-<h1>Page 6</h1>
+<h1>Spain</h1>
 <p>Some content</p>
