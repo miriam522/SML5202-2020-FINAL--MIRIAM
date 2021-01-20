@@ -4,7 +4,8 @@
  <div class="row">
   <div class="col-md-4">
     <div class="thumbnail">
-      <a href="images/conversation.png">
+      <a href="images/conversation.png"> class="btn btn-info" role="button">Link Button</a>
+     <link rel="page 2" href="page2.html">
         <img src="images/conversation.png" alt="two people engage in conversation and smile" style="width:100%">
         <div class="caption">
           <p>Learn conversation skills</p>
