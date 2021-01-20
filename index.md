@@ -1,11 +1,11 @@
 <h1>Welcome</h1>
 <p><b>Learn Spanish</b> is a selection of beginner Spanish lessons, helpful videos, and fun games to help children learn Spanish!</p>
-<p>Use the tabs at the top of the page or the buttons below to navigate the website. You can complete the lessons in any order.</p>
+<p>Below are some pictures showing you what you will learn here.</p>
+<p>Use the tabs at the top of the page to navigate the website. You can complete the lessons in any order.</p>
  <div class="row">
   <div class="col-md-4">
     <div class="thumbnail">
-      <a href="images/conversation.png"> class="btn btn-info" role="button">Link Button</a>
-     <link rel="page 2" href="page2.html">
+      <a href="images/conversation.png">
         <img src="images/conversation.png" alt="two people engage in conversation and smile" style="width:100%">
         <div class="caption">
           <p>Learn conversation skills</p>
