@@ -5,7 +5,7 @@
   <div class="col-md-4">
     <div class="thumbnail">
       <a href="images/conversation.png">
-        <img src="images/conversation.png">" alt="two people engage in conversation and smile" style="width:100%">
+        <img src="images/conversation.png" alt="two people engage in conversation and smile" style="width:100%">
         <div class="caption">
           <p>Learn conversation skills</p>
         </div>
