@@ -46,7 +46,7 @@
    <div class="col-md-4">
     <div class="thumbnail">
       <a href="images/spanishflag.png">
-        <img src="images/spanishflag" alt="picture of Spanish flag" style="width:100%">
+        <img src="images/spanishflag.png" alt="picture of Spanish flag" style="width:100%">
         <div class="caption">
           <p>Learn about Spain</p>
         </div>
