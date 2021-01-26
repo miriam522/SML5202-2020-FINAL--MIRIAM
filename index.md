@@ -16,7 +16,7 @@
   <div class="col-md-4">
     <div class="thumbnail">
       <a href="images/time.png">
-        <img src="images/time.png" alt="Picture of calendar with number 4" style="width:100%">
+        <img src="images/time.png" alt="Picture of calendar with number 4" style="width:50%">
         <div class="caption">
           <p>Learn numbers, weekdays, and months</p>
         </div>
@@ -26,7 +26,7 @@
   <div class="col-md-4">
     <div class="thumbnail">
       <a href="images/bread.png">
-        <img src="images/bread.png" alt="picture of bread" style="width:100%">
+        <img src="images/bread.png" alt="picture of bread" style="width:50%">
         <div class="caption">
           <p>Food vocabulary</p>
         </div>
@@ -36,7 +36,7 @@
   <div class="col-md-4">
     <div class="thumbnail">
       <a href="images/jacket.png">
-        <img src="images/jacket.png" alt="Picture of green jacket" style="width:100%">
+        <img src="images/jacket.png" alt="Picture of green jacket" style="width:50%">
         <div class="caption">
           <p>Learn clothing vocabulary</p>
         </div>
@@ -46,7 +46,7 @@
    <div class="col-md-4">
     <div class="thumbnail">
       <a href="images/spanishflag.png">
-        <img src="images/spanishflag.png" alt="picture of Spanish flag" style="width:100%">
+        <img src="images/spanishflag.png" alt="picture of Spanish flag" style="width:50%">
         <div class="caption">
           <p>Learn about Spain</p>
         </div>
